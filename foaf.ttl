@@ -3,29 +3,29 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf:  <http://xmlns.com/foaf/0.1/> .
 
-<https://github.com/dijanasazdevska/foaf/blob/main/foaf.ttl#me>
+<http://raw.githubusercontent.com/dijanasazdevska/foaf/main/foaf.ttl>
+        a                     foaf:PersonalProfileDocument ;
+        admin:errorReportsTo  <mailto:leigh@ldodds.com> ;
+        admin:generatorAgent  <http://www.ldodds.com/foaf/foaf-a-matic> ;
+        foaf:maker            <http://raw.githubusercontent.com/dijanasazdevska/foaf/main/foaf.ttl#me> ;
+        foaf:primaryTopic     <http://raw.githubusercontent.com/dijanasazdevska/foaf/main/foaf.ttl#me> .
+
+<http://raw.githubusercontent.com/dijanasazdevska/foaf/main/foaf.ttl#me>
         a                    foaf:Person ;
         foaf:family_name     "Sazdevska" ;
         foaf:givenname       "Dijana" ;
         foaf:knows           [ a                  foaf:Person ;
-                               rdfs:seeAlso       <https://www.dropbox.com/s/ury8igvp9fb8hew/foaf.ttl?dl=0> ;
-                               foaf:mbox_sha1sum  "3453335b581445b8d4dc0e24f7eed1f9afb15033" ;
-                               foaf:name          "Gjoko Kostadinov"
-                             ] ;
-        foaf:knows           [ a                  foaf:Person ;
                                rdfs:seeAlso       <https://www.dropbox.com/s/l1zolu7welg3wwt/foaf.ttl?dl=1> ;
                                foaf:mbox_sha1sum  "7f637771dced52e7d28d096cd2407901e6cbf43a" ;
                                foaf:name          "Dragana Georgievska"
+                             ] ;
+        foaf:knows           [ a                  foaf:Person ;
+                               rdfs:seeAlso       <https://www.dropbox.com/s/ury8igvp9fb8hew/foaf.ttl?dl=0> ;
+                               foaf:mbox_sha1sum  "3453335b581445b8d4dc0e24f7eed1f9afb15033" ;
+                               foaf:name          "Gjoko Kostadinov"
                              ] ;
         foaf:mbox_sha1sum    "594f7bfb8fc2602bf187604cd26ff3dc63460445" ;
         foaf:name            "Dijana Sazdevska" ;
         foaf:nick            "Didi" ;
         foaf:schoolHomepage  <https://finki.ukim.mk> ;
         foaf:title           "Mrs" .
-
-<https://github.com/dijanasazdevska/foaf/blob/main/foaf.ttl>
-        a                     foaf:PersonalProfileDocument ;
-        admin:errorReportsTo  <mailto:leigh@ldodds.com> ;
-        admin:generatorAgent  <http://www.ldodds.com/foaf/foaf-a-matic> ;
-        foaf:maker            <https://github.com/dijanasazdevska/foaf/blob/main/foaf.ttl#me> ;
-        foaf:primaryTopic     <https://github.com/dijanasazdevska/foaf/blob/main/foaf.ttl#me> .
