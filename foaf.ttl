@@ -20,7 +20,7 @@
                                foaf:name          "Dragana Georgievska"
                              ] ;
         foaf:knows           [ a                  foaf:Person ;
-                               rdfs:seeAlso       <https://www.dropbox.com/s/ury8igvp9fb8hew/foaf.ttl?dl=0> ;
+                               rdfs:seeAlso       <https://raw.githubusercontent.com/Gjoko/GjokoKostadinov/main/foaf.ttl> ;
                                foaf:mbox_sha1sum  "3453335b581445b8d4dc0e24f7eed1f9afb15033" ;
                                foaf:name          "Gjoko Kostadinov"
                              ] ;
