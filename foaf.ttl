@@ -25,6 +25,8 @@
                                foaf:name          "Gjoko Kostadinov"
                              ] ;
         foaf:mbox_sha1sum    "594f7bfb8fc2602bf187604cd26ff3dc63460445" ;
+        foaf:homepage <https://www.facebook.com/dijana.sazdevska> ;
+        foaf:depiction <https://www.facebook.com/photo?fbid=4447390748709480&set=a.105263152922283"> ;
         foaf:name            "Dijana Sazdevska" ;
         foaf:nick            "Didi" ;
         foaf:schoolHomepage  <https://finki.ukim.mk> ;
