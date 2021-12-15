@@ -15,19 +15,19 @@
         foaf:family_name     "Sazdevska" ;
         foaf:givenname       "Dijana" ;
         foaf:knows           [ a                  foaf:Person ;
-                               rdfs:seeAlso       <https://www.dropbox.com/s/l1zolu7welg3wwt/foaf.ttl?dl=1> ;
+                               rdfs:seeAlso       <http://www.dropbox.com/s/l1zolu7welg3wwt/foaf.ttl?dl=1> ;
                                foaf:mbox_sha1sum  "7f637771dced52e7d28d096cd2407901e6cbf43a" ;
                                foaf:name          "Dragana Georgievska"
                              ] ;
         foaf:knows           [ a                  foaf:Person ;
-                               rdfs:seeAlso       <https://raw.githubusercontent.com/Gjoko/GjokoKostadinov/main/foaf.ttl> ;
+                               rdfs:seeAlso       <http://raw.githubusercontent.com/Gjoko/GjokoKostadinov/main/foaf.ttl> ;
                                foaf:mbox_sha1sum  "3453335b581445b8d4dc0e24f7eed1f9afb15033" ;
                                foaf:name          "Gjoko Kostadinov"
                              ] ;
         foaf:mbox_sha1sum    "594f7bfb8fc2602bf187604cd26ff3dc63460445" ;
-        foaf:homepage <https://www.facebook.com/dijana.sazdevska> ;
-        foaf:depiction <https://www.facebook.com/photo?fbid=4447390748709480&set=a.105263152922283"> ;
+        foaf:homepage <http://www.facebook.com/dijana.sazdevska> ;
+        foaf:depiction <http://www.facebook.com/photo?fbid=4447390748709480&set=a.105263152922283"> ;
         foaf:name            "Dijana Sazdevska" ;
         foaf:nick            "Didi" ;
-        foaf:schoolHomepage  <https://finki.ukim.mk> ;
+        foaf:schoolHomepage  <http://finki.ukim.mk> ;
         foaf:title           "Mrs" .
