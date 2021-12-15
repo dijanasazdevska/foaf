@@ -26,7 +26,7 @@
                              ] ;
         foaf:mbox_sha1sum    "594f7bfb8fc2602bf187604cd26ff3dc63460445" ;
         foaf:homepage <http://www.facebook.com/dijana.sazdevska> ;
-        foaf:depiction <http://www.facebook.com/photo?fbid=4447390748709480&set=a.105263152922283> ;
+        foaf:depiction <https://scontent.fskp2-1.fna.fbcdn.net/v/t39.30808-6/248260507_4447390735376148_6927589028703354927_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zD79bqF4sBYAX912Gii&_nc_ht=scontent.fskp2-1.fna&oh=00_AT8to2fCwGU5qXBGXVhT6wGkOJB842zz5UgX0GS5-EbgyQ&oe=61BF1302> ;
         foaf:name            "Dijana Sazdevska" ;
         foaf:nick            "Didi" ;
         foaf:schoolHomepage  <http://finki.ukim.mk> ;
